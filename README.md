@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+En este repositorio publicare código que utilice para resolver problemas de ingeniería
+aplicada a distintos procesos. Las metodologías incluyen: 
+Análisis de Datos
+Inteligencia Artificial (ML y RN) 
+Simulaciones 
