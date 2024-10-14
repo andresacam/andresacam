@@ -21,8 +21,10 @@ Soy **ingeniero industrial** con un gran interés en el mundo de la **Inteligenc
 ---
 
 ### 📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AndrésCampos-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9s-campos-a375a9170/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AndrésCampos-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andres-campos-lkdin)
 
 ---
+
+💡 *Siempre en busca de nuevos retos y oportunidades para aprender.* 🚀
 
 💡 *Siempre en busca de nuevos retos y oportunidades para aprender.* 🚀
