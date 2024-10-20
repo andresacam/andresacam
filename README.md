@@ -7,7 +7,7 @@ Soy **ingeniero industrial** con un gran interés en el mundo de la **Inteligenc
 ---
 
 ### 🚀 Proyectos y este Repo
-En este repo encontraras algunos de los proyectos que realice durante mi etapa de aprendizaje que me permitieron adquirir las habilidades para resolver problemas del campo de la ingenieria industrial, como el **analisis financiero, gestios de proyectos, gestion de riesgo y el analisis de procesos productivos/negocio**.
+En este repo encontraras algunos de los proyectos que realice durante mi etapa de aprendizaje que me permitieron adquirir las habilidades para resolver problemas del campo de la ingenieria industrial, como el **analisis financiero, gestion de proyectos, gestion de riesgo y el analisis de procesos productivos/negocio**.
 
 ---
 
