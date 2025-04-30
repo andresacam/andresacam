@@ -13,7 +13,7 @@ En este repo encontrarás algunos de los proyectos que realicé durante mi etapa
 
 ### 🛠️ Habilidades
 - **Lenguajes**: Python, SQL
-- **Herramientas**: PowerBI, Excell, MiniTab, SQLite
+- **Herramientas**: PowerBI, Excell, MiniTab, SQLite, Vertex AI 
 - **Modelos**: Machine Learning (ML), Redes Neuronales (RN).
 
 ---
